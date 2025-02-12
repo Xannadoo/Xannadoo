@@ -1,12 +1,14 @@
 ## Hej 👋
 
-I'm Chrisanna, otherwise know as Sanna.
+I'm Chrisanna, also known as Sanna.
 
-I'm studying MSc Data Science at ITU Copenhagen, with a focus on explainability of ML models.
+👩‍🎓 I'm studying MSc Data Science at ITU Copenhagen, with a focus on explainability of LLMs, and machine learning models in general.
 
-I am interested in knowing why. More specifically, why do machine learning models make the decisions they do? Why did they return the response they did? How do we go about creating explainations and how reliable is that process? 
+🧠 I am interested in knowing why. More specifically, why do machine learning models make the decisions they do/return the response they did? 
+How do we go about creating these explanations and how reliable are the explanations? What can we trust **and** how much can we trust it?
+What do we even mean by that anyway?
 
-Fun fact: The name Xannadoo comes from Coleridge's poem Kubla Khan. Many years ago, a collegue of mine misheard my name and it stuck. I also used to live in the birthplace of Coleridge, Ottery St Mary before moving to Denmark.
+🎆 Fun fact: The name Xannadoo comes from Samuel Taylor Coleridge's poem [Kubla Khan](https://en.wikipedia.org/wiki/Kubla_Khan). Many years ago, a collegue of mine misheard my name and it stuck. I also used to live in the birthplace of Coleridge, Ottery St Mary, before moving to Denmark.
 <!--
 **Xannadoo/Xannadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

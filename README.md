@@ -2,7 +2,7 @@
 
 I'm Chrisanna, also known as Sanna.
 
-👩‍🎓 I'm studying MSc Data Science at ITU Copenhagen, with a focus on explainability of LLMs, and machine learning models in general.
+👩‍🎓 I'm completed my MSc from ITU Copenhagen in late 2025, with a focus on explainability of LLMs, and machine learning models in general.
 
 🧠 I am interested in knowing why. More specifically, why do machine learning models make the decisions they do/return the response they did? 
 How do we go about creating these explanations and how reliable are the explanations? What can we trust **and** how much can we trust it?

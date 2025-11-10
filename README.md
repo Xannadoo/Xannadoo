@@ -8,7 +8,7 @@ I'm Chrisanna, also known as Sanna.
 How do we go about creating these explanations and how reliable are the explanations? What can we trust **and** how much can we trust it?
 What do we even mean by that anyway?
 
-🎆 Fun fact: The name Xannadoo comes from Samuel Taylor Coleridge's poem [Kubla Khan](https://en.wikipedia.org/wiki/Kubla_Khan). Many years ago, a collegue of mine misheard my name and it stuck. I also used to live in the birthplace of Coleridge, Ottery St Mary, before moving to Denmark.
+🎆 Fun fact: The name Xannadoo comes from Samuel Taylor Coleridge's poem [Kubla Khan](https://en.wikipedia.org/wiki/Kubla_Khan). Many years ago, a collegue of mine misheard my name and it stuck. I also used to live in Ottery St Mary, the birthplace of Coleridge, before moving to Denmark in 2020.
 <!--
 **Xannadoo/Xannadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
